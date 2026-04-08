@@ -1,6 +1,6 @@
 # Count the number of subarrays with k different integers
 
-# Solution
+## Solution
 
 class Solution {
 public:
